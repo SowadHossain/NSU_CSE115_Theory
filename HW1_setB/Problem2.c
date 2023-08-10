@@ -5,7 +5,7 @@ int main(){
 	int total_bill;
 
 	printf("Enter amount:");
-	scanf("%d",total_bill);
+	scanf("%d",&total_bill);
 
 	printf("\n500:");
 	scanf("%d",&note500);
